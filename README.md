@@ -21,4 +21,17 @@ This project is intended for **educational and demonstrational purposes only**.
 
 If you require exact implementations, please refer to the original publication.
 
+## GIFs worth mentioning (but they are too large to display here)
 
+- [Cascade Correlation Algorithm](https://github.com/dan0nchik/fcnn-animations/blob/main/cascade_correlation_animation.gif)
+- [FCNN Construction](https://github.com/dan0nchik/fcnn-animations/blob/main/fcnn_construction.gif)
+
+## FCNN Candidate selection
+[Download](https://github.com/dan0nchik/fcnn-animations/blob/main/fcnn_candidate_selection.gif)
+
+![candidate_selection](https://github.com/dan0nchik/fcnn-animations/blob/main/fcnn_candidate_selection.gif)
+
+## FCNN Race simulation (with other algorithms)
+[Download](https://github.com/dan0nchik/fcnn-animations/blob/main/fcnn_race_simulation.gif)
+
+![race_simulation](https://github.com/dan0nchik/fcnn-animations/blob/main/fcnn_race_simulation.gif)
